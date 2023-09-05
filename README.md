@@ -1,4 +1,4 @@
-Certainly! Here's a README file template for your project:
+
 
 # Secret Sharing App
 
@@ -108,9 +108,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your fork.
 5. Submit a pull request to the original repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
