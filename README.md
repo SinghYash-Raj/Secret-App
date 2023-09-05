@@ -12,7 +12,7 @@ A web application that allows users to post and view secrets anonymously. Users 
 - [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
